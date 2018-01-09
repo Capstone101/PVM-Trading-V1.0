@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVM-Trading V1.0", "PVM-Trading V1.0\PVM-Trading V1.0.csproj", "{E25E62FE-2609-4105-AE21-5ABC097B1ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVM-Trading V1.0.Tests", "PVM-Trading V1.0.Tests\PVM-Trading V1.0.Tests.csproj", "{B7C11C44-BA34-4181-B83D-F2BB3A449BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25E62FE-2609-4105-AE21-5ABC097B1ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25E62FE-2609-4105-AE21-5ABC097B1ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25E62FE-2609-4105-AE21-5ABC097B1ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25E62FE-2609-4105-AE21-5ABC097B1ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C11C44-BA34-4181-B83D-F2BB3A449BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C11C44-BA34-4181-B83D-F2BB3A449BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C11C44-BA34-4181-B83D-F2BB3A449BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C11C44-BA34-4181-B83D-F2BB3A449BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
